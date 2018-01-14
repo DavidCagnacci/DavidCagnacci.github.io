@@ -32,6 +32,8 @@ Flexibility and adaptability are my greatest strengths, while my previous experi
 
 <div style="text-align: center"><p><strong>View sample scripts on <a href="https://github.com/DavidCagnacci/foraging-through-samples">GitHub</a></strong></p></div>
 
+<div style="text-align: center"><p><strong>Demo a playable PC build <a href="assets/files/ForagingThrough.zip">here</a>!</strong></p></div>
+
 *Foraging Through* is a small mobile game in which the player controls a hungry squirrel, collecting food from their environment to survive for as many years as possible. *Foraging Through* was created in collaboration with a group of fellow students for a major project at the Academy of Interactive Entertainment.
 
 *Foraging Through* features:
@@ -45,7 +47,7 @@ Flexibility and adaptability are my greatest strengths, while my previous experi
 
 <div style="text-align: center"><h1><strong>Goal-Oriented Action Planning AI</strong> - Unity/C#</h1></div>
 
-<div style="text-align: center"><p><strong>View the repository on <a href="https://github.com/DavidCagnacci/goap-ai">GitHub</a></strong></p></div>
+<div style="text-align: center"><p><strong>View and download the repository on <a href="https://github.com/DavidCagnacci/goap-ai">GitHub</a></strong></p></div>
 
 This *goal-oriented action planner (GOAP) AI* system can devise a plan to reach a specified "goal" state using a predetermined list of "actions" supplied to it. The *GOAP AI* was developed for an project at the Academy of Interactive Entertainment. Sprites created by [Kenney.nl](https://kenney.nl/).
 
