@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Portfolio of David Cagnacci, game developer and programmer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: DavidCagnacci
+#twitter_username: DavidCagnacci
 github_username:  DavidCagnacci
 
 # Build settings
