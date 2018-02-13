@@ -49,7 +49,7 @@ Flexibility and adaptability are my greatest strengths, while my previous experi
 
 <div style="text-align: center"><p><strong>View and download the repository on <a href="https://github.com/DavidCagnacci/goap-ai">GitHub</a></strong></p></div>
 
-This *goal-oriented action planner (GOAP) AI* system can devise a plan to reach a specified "goal" state using a predetermined list of "actions" supplied to it. The *GOAP AI* was developed for an project at the Academy of Interactive Entertainment. Sprites created by [Kenney.nl](https://kenney.nl/).
+This *goal-oriented action planner (GOAP) AI* system can devise a plan to reach a specified "goal" state using a predetermined list of "actions" supplied to it. Sprites created by [Kenney.nl](https://kenney.nl/).
 
 The *GOAP AI* features:
 - A* pathfinding with dynamic node validation
@@ -59,3 +59,18 @@ The *GOAP AI* features:
 The example shown in the video below features a basic RTS game, where the AI devises an action plan to create the specified number of "fighter" units.
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/RAAv_Z6vYyY" frameborder="0" gesture="media" allowfullscreen></iframe></div>
+
+<br />
+
+<div style="text-align: center"><h1><strong>RPG Character Creator</strong> - C#/WPF</h1></div>
+
+<div style="text-align: center"><p><strong>View and download the repository on <a href="https://github.com/DavidCagnacci/rpg-character-creator">GitHub</a></strong></p></div>
+
+This *RPG character creator* is a C#/WPF application used to generate characters for tabletop role-playing games.
+
+The *RPG character creator* features:
+- Varied use of a wide array of WPF controls
+- Responsive fields that auto-fill based on user choices
+- XML file saving/loading
+
+<div style="text-align: center"><img src="assets/img/rpgcharactercreator1.png" alt="RPG Character Creator"></div>
