@@ -7,24 +7,37 @@ title: Portfolio
 
 <div class="portrait"><img src="assets/img/portrait.png" alt="David Cagnacci"></div>
 
-Game development and software programming are my passions. With over five years of study in these fields, I am well-equipped to take on any challenges that are thrown my way.
+Game development and software programming are my passions. With over five years of study and two years of professional experience in these fields, I am well-equipped to take on any challenges that are thrown my way.
 
 Flexibility and adaptability are my greatest strengths, and I have previous experience in many languages, engines and technologies - especially Unity, C# and C++. I greatly enjoy working with artificial intelligence, shaders and procedural generation due to the virtually unlimited possibilities of these technologies.
 
 <br />
 
-<div style="text-align: center"><h1><strong>Wheel Words</strong> - HTML5/TypeScript</h1></div>
+<div style="text-align: center"><h1><strong>JackQuest</strong> - GameMaker Studio 2</h1></div>
 
-<div style="text-align: center"><p><strong><a href="https://lovattspuzzles.com/online-puzzles-competitions/wheel-words/">Play it now!</a></strong></p></div>
+<div style="text-align: center"><p><strong>View the game description on the <a href="https://www.blowfishstudios.com/game/jack-quest">Blowfish Studios</a> website!</strong></p></div>
 
-*Wheel Words* is a word puzzle game, challenging the player to find as many words as possible using the provided letters - all words found must include the centre letter. *Wheel Words* was developed using HTML5, AngularJS and TypeScript for [Lovatts Media Group](https://www.lovattsmedia.com/), and can be played online [here](https://lovattspuzzles.com/online-puzzles-competitions/wheel-words/).
+One fateful night, when young Jack takes the beautiful Nara for a walk in the woods, his love is kidnapped by the villainous orc Korg. Forced to mount a rescue, Jack plunges into Korg’s underground base, where he happens upon a strange blade that becomes an unlikely ally.
 
-*Wheel Words* features:
-- Responsive web design
-- Server-provided content
-- GSAP-driven animations
+In *JackQuest*, players will explore the cavernous depths of Korg’s slime-ridden, labyrinthine lair. There, they will solve environmental puzzles, discover power-ups, obtain new abilities, collect weapons, and challenge subterranean foes, including massive bosses.
 
-<div style="text-align: center"><img src="assets/img/wheelwords1.png" alt="Wheel Words"></div>
+*JackQuest* was created in GameMaker Studio 2 by [NX Games](http://nx-games.com/) and published for Playstation 4, Xbox One and Switch by [Blowfish Studios](https://www.blowfishstudios.com/).
+
+<div style="text-align: center"><img src="assets/img/jackquest1.png" alt="JackQuest"></div>
+
+<br />
+
+<div style="text-align: center"><h1><strong>Storm Boy: The Game</strong> - Unity/C#</h1></div>
+
+<div style="text-align: center"><p><strong>View the game description on the <a href="https://www.blowfishstudios.com/game/storm-boy">Blowfish Studios</a> website!</strong></p></div>
+
+Based on Colin Thiele's 1964 children’s book of the same name, *Storm Boy* takes place on the beaches of South Australia near the mouth of the Murray River, where the titular protagonist rescues orphaned pelican chicks, one of whom later becomes the child’s pet and faithful companion, Mr. Percival.
+
+Experience an interactive retelling of the classic tale by taking control of both Storm Boy and Mr. Percival in key moments, such as when the pair rescued stranded sailors during a storm. Relive their friendship and enjoy seaside activities across a wide assortment of fun and relaxing mini-games, including sand drawing, sailing, cockle hunting, playing fetch, sand surfing, pelican feeding, and more.
+
+*Storm Boy* was created in Unity and published for PC, Mac, Playstation 4, Xbox One, Switch, Android, iOS and Apple TV by [Blowfish Studios](https://www.blowfishstudios.com/).
+
+<div style="text-align: center"><img src="assets/img/stormboy1.png" alt="Storm Boy: The Game"></div>
 
 <br />
 
@@ -62,15 +75,15 @@ The example shown in the video below features a basic RTS game, where the AI dev
 
 <br />
 
-<div style="text-align: center"><h1><strong>RPG Character Creator</strong> - C#/WPF</h1></div>
+<div style="text-align: center"><h1><strong>Wheel Words</strong> - HTML5/TypeScript</h1></div>
 
-<div style="text-align: center"><p><strong>View and download the repository on <a href="https://github.com/DavidCagnacci/rpg-character-creator">GitHub</a></strong></p></div>
+<div style="text-align: center"><p><strong><a href="https://lovattspuzzles.com/online-puzzles-competitions/wheel-words/">Play it now!</a></strong></p></div>
 
-This *RPG character creator* is a C#/WPF application used to generate characters for tabletop role-playing games.
+*Wheel Words* is a word puzzle game, challenging the player to find as many words as possible using the provided letters - all words found must include the centre letter. *Wheel Words* was developed using HTML5, AngularJS and TypeScript for [Lovatts Media Group](https://www.lovattsmedia.com/), and can be played online [here](https://lovattspuzzles.com/online-puzzles-competitions/wheel-words/).
 
-The *RPG character creator* features:
-- Varied use of a wide array of WPF controls
-- Responsive fields that auto-fill based on user choices
-- XML file saving/loading
+*Wheel Words* features:
+- Responsive web design
+- Server-provided content
+- GSAP-driven animations
 
-<div style="text-align: center"><img src="assets/img/rpgcharactercreator1.png" alt="RPG Character Creator"></div>
+<div style="text-align: center"><img src="assets/img/wheelwords1.png" alt="Wheel Words"></div>
