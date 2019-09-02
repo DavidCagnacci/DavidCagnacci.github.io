@@ -5,11 +5,23 @@ title: Portfolio
 
 <div style="text-align: center"><h1><strong>About Me</strong></h1></div>
 
-<div class="portrait"><img src="assets/img/portrait.png" alt="David Cagnacci"></div>
-
 Game development and software programming are my passions. With over five years of study and two years of professional experience in these fields, I am well-equipped to take on any challenges that are thrown my way.
 
-Flexibility and adaptability are my greatest strengths, and I have previous experience in many languages, engines and technologies - especially Unity, C# and C++. I greatly enjoy working with artificial intelligence, shaders and procedural generation due to the virtually unlimited possibilities of these technologies.
+Flexibility and adaptability are my greatest strengths, and I have previous experience in many languages, engines and technologies - especially Unity, C# and C++. I'm happiest when working on the engines and tools used to create amazing interactive experiences.
+
+<br />
+
+<div style="text-align: center"><h1><strong>Whipseey and the Lost Atlas</strong> - GameMaker Studio 2</h1></div>
+
+<div style="text-align: center"><p><strong>View the game description on the <a href="https://www.blowfishstudios.com/game/whipseey">Blowfish Studios</a> website!</strong></p></div>
+
+After discovering a magical book, a young boy named Alex is whisked away to Whipseeyland, where he transforms into Whipseey, the pink, whip-wielding hero of this bright, colorful world. With the help of Princess Alyssa, Whipseey embarks on a quest to recover magical orbs that possess the power to return him home.
+
+Inspired by classic 2D platformers, *Whipseey and the Lost Atlas* is a challenging throwback to a golden age filled with picturesque levels, a relaxing soundtrack, and memorable boss fights.
+
+*Whipseey and the Lost Atlas* was created in GameMaker Studio 2 by Daniel A. Ramirez and published for Steam, Playstation 4, Xbox One and Switch by [Blowfish Studios](https://www.blowfishstudios.com/).
+
+<div style="text-align: center"><img src="assets/img/whipseey1.png" alt="Whipseey"></div>
 
 <br />
 
@@ -38,6 +50,18 @@ Experience an interactive retelling of the classic tale by taking control of bot
 *Storm Boy* was created in Unity and published for PC, Mac, Playstation 4, Xbox One, Switch, Android, iOS and Apple TV by [Blowfish Studios](https://www.blowfishstudios.com/).
 
 <div style="text-align: center"><img src="assets/img/stormboy1.png" alt="Storm Boy: The Game"></div>
+
+<br />
+
+<div style="text-align: center"><h1><strong>Face Up To (Virtual) Reality</strong> - Unity/C#/VR</h1></div>
+
+<div style="text-align: center"><p><strong>View the repo on <a href="https://github.com/DavidCagnacci/face-up-to-virtual-reality">GitHub</a></strong></p></div>
+
+*Face Up To (Virtual) Reality* is a VR research tool, developed independently for a PhD candidate at the University of Newcastle.
+
+*Face Up To (Virtual) Reality* features:
+- Virtual reality display and head-tracking
+- File output of positional data and user input
 
 <br />
 
